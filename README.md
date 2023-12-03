@@ -1,6 +1,7 @@
 # **022023_d-muralis_react** <br>
 
 **objetivo:**<br> Esse desafio tem por objetivo medir as capacidades técnicas para requisitos Front-End em react.js<br>
+veja o desafio através do arquivo D01_REACT_BASICO_V01_04072022.pdf<br>
 
 O cliente solicita um formulário de cadastramento de ingressantes e que contenham as seguintes características
 <ul>
